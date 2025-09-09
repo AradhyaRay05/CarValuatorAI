@@ -13,10 +13,40 @@ This project delivers an end-to-end machine learning pipeline for car price pred
 - Data preprocessing and cleaning for model-ready inputs.  
 - Exploratory Data Analysis (EDA) to understand feature impact.  
 - Building and tuning a CatBoost Regressor for high-accuracy predictions.  
-- Deploying the trained model into a Streamlit application for interactive usage.  
-
+- Deploying the trained model into a Streamlit application for interactive usage.
 
 ---
+
+## 🔄 Project Workflow  
+
+### 1. Data Preprocessing  
+- Removed missing and irrelevant values.  
+- Converted categorical variables (Fuel Type, Transmission, Seller Type) into dummy variables.  
+- Derived car age (`no_year`) from year of manufacture.  
+- Selected key features: `Present_Price`, `Kms_Driven`, `Owner`, `no_year`, `Fuel_Type`, `Seller_Type`, and `Transmission`.  
+
+### 2. Model Building  
+- Used **CatBoost Regressor** as the core model.  
+- Applied **hyperparameter tuning** (iterations, depth, learning rate, etc.) to optimize performance.  
+- Final trained model saved as `model.pkl` for deployment.  
+
+### 3. Evaluation Metrics  
+- **CatBoost Regressor Performance:**  
+  - R² Score: **0.94**  
+  - Mean Absolute Error (MAE): **0.62 Lakhs**  
+  - Root Mean Squared Error (RMSE): **0.89 Lakhs**  
+- The tuned CatBoost model provided excellent accuracy and generalization.  
+
+### 4. Deployment  
+- The trained CatBoost model was serialized using `pickle`.  
+- A **Streamlit web app** (`app.py`) was built for user interaction.  
+- The app allows users to enter details like car price, kilometers driven, ownership, fuel type, transmission, etc. and get instant resale price predictions.  
+- Can be deployed on **Streamlit Cloud, Heroku, AWS, or other cloud platforms** for real-time usage.  
+
+---
+
+
+
 
 ## ✨ Features  
 - Predict the **resale value of a car** using ML.  
