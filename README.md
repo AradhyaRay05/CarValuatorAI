@@ -8,6 +8,12 @@ CarValuatorAI is a machine learning-powered web application that predicts the re
 
 ---
 
+## 📖 Project Overview  
+This project delivers an end-to-end machine learning pipeline for car price prediction:  
+- Data preprocessing and cleaning for model-ready inputs.  
+- Exploratory Data Analysis (EDA) to understand feature impact.  
+- Building and tuning a CatBoost Regressor for high-accuracy predictions.  
+- Deploying the trained model into a Streamlit application for interactive usage.  
 
 
 ---
