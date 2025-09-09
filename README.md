@@ -2,6 +2,8 @@
 
 ---
 
+
+
 ---
 
 ## ✨ Features  
@@ -10,8 +12,15 @@
 - Powered by a **tuned CatBoost model** for high accuracy.  
 - Provides results based on real-world dataset features.  
 
+---
 
+## 🚀 Future Enhancements  
+- Add more features like **car brand, model, mileage, location**.  
+- Deploy a **REST API** for integration with external systems.  
+- Add **visual explanations (SHAP, feature importance plots)** for model transparency.  
+- Deploy at scale on **AWS/GCP/Azure** with CI/CD pipelines.  
 
+---
 
 ## 📌 How to Run Locally  
 
