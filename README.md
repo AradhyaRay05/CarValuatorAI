@@ -2,6 +2,17 @@
 
 ---
 
+---
+
+## ✨ Features  
+- Predict the **resale value of a car** using ML.  
+- Simple and interactive **Streamlit UI** with sliders and dropdowns.  
+- Powered by a **tuned CatBoost model** for high accuracy.  
+- Provides results based on real-world dataset features.  
+
+
+
+
 ## 📌 How to Run Locally  
 
 ```
