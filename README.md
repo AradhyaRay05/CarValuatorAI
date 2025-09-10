@@ -65,7 +65,10 @@ This project delivers an end-to-end machine learning pipeline for car price pred
 
 ---
 
+## 📂 Project Structure  
 
+
+---
 
 ## ✨ Features  
 - Predict the **resale value of a car** using ML.  
