@@ -67,6 +67,13 @@ This project delivers an end-to-end machine learning pipeline for car price pred
 
 ## 📂 Project Structure  
 
+CarValuatorAI/
+│-- app.py # Streamlit app
+│-- model.pkl # Trained CatBoost model
+│-- Car_Price_Prediction.ipynb # Notebook with EDA and model training
+│-- requirements.txt # Dependencies
+│-- README.md # Project documentation
+
 
 ---
 
