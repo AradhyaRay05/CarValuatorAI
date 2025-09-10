@@ -45,6 +45,25 @@ This project delivers an end-to-end machine learning pipeline for car price pred
 
 ---
 
+## 🛠 Tech Stack  
+**Programming Language:**  
+- Python  
+
+**Libraries for Data Analysis & Visualization:**  
+- Numpy  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+
+**Machine Learning:**  
+- CatBoost  
+- Scikit-learn (for preprocessing and evaluation metrics)  
+
+**Deployment & Utilities:**  
+- Streamlit  
+- Pickle  
+
+
 
 
 
