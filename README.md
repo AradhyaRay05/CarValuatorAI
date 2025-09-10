@@ -71,11 +71,12 @@ CarValuatorAI/
 ├── dataset/
 │   └── car_data.csv                        # Raw dataset used for training
 ├── .gitignore                              # Files/directories to exclude from Git tracking
+├── Car_Price_Prediction.ipynb              # Notebook with EDA and model training
 ├── LICENSE                                 # Allows reuse, with attribution, no warranty
 ├── README.md                               # Project documentation
 │-- app.py # Streamlit app
 │-- model.pkl # Trained CatBoost model
-│-- Car_Price_Prediction.ipynb # Notebook with EDA and model training
+
 │-- requirements.txt # Dependencies
 
 
