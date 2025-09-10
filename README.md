@@ -74,7 +74,7 @@ CarValuatorAI/
 ├── Car_Price_Prediction.ipynb              # Notebook with EDA and model training
 ├── LICENSE                                 # Allows reuse, with attribution, no warranty
 ├── README.md                               # Project documentation
-│-- app.py # Streamlit app
+│-- app.py                                  # Streamlit app
 │-- model.pkl # Trained CatBoost model
 
 │-- requirements.txt # Dependencies
