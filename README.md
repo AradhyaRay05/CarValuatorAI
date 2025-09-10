@@ -75,9 +75,8 @@ CarValuatorAI/
 ├── LICENSE                                 # Allows reuse, with attribution, no warranty
 ├── README.md                               # Project documentation
 │-- app.py                                  # Streamlit app
-│-- model.pkl # Trained CatBoost model
-
-│-- requirements.txt # Dependencies
+│-- model.pkl                               # Trained CatBoost model
+│-- requirements.txt                        # Required dependencies
 
 
 ---
