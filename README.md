@@ -34,7 +34,7 @@ This project delivers an end-to-end machine learning pipeline for car price pred
 - **CatBoost Regressor Performance:**  
   - R² Score: **0.94**  
   - Mean Absolute Error (MAE): **0.44**  
-  - Root Mean Squared Error (RMSE): **0.89 Lakhs**  
+  - Root Mean Squared Error (RMSE): **0.65**  
 - The tuned CatBoost model provided excellent accuracy and generalization.  
 
 ### 4. Deployment  
