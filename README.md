@@ -68,7 +68,7 @@ This project delivers an end-to-end machine learning pipeline for car price pred
 
 ## 📂 Project Structure  
 
-
+```
 CarValuatorAI/
 ├── dataset/
 │   └── car_data.csv                        # Raw dataset used for training
@@ -80,6 +80,7 @@ CarValuatorAI/
 │-- model.pkl                               # Trained CatBoost model
 │-- requirements.txt                        # Required dependencies
 
+```
 
 ---
 
