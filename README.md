@@ -46,6 +46,7 @@ This project delivers an end-to-end machine learning pipeline for car price pred
 ---
 
 ## 🛠 Tech Stack  
+
 **Programming Language:**  
 - Python  
 
@@ -57,7 +58,7 @@ This project delivers an end-to-end machine learning pipeline for car price pred
 
 **Machine Learning:**  
 - CatBoost  
-- Scikit-learn (for preprocessing and evaluation metrics)  
+- Scikit-learn  
 
 **Deployment & Utilities:**  
 - Streamlit  
@@ -66,6 +67,7 @@ This project delivers an end-to-end machine learning pipeline for car price pred
 ---
 
 ## 📂 Project Structure  
+
 
 CarValuatorAI/
 ├── dataset/
