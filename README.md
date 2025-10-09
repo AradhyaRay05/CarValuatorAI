@@ -79,7 +79,6 @@ CarValuatorAI/
 ├── app.py                                  # Streamlit app
 ├── model.pkl                               # Trained CatBoost model
 └── requirements.txt                        # Required dependencies
-
 ```
 
 ---
