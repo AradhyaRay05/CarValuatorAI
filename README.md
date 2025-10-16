@@ -2,7 +2,6 @@
 
 ---
 
-
 ## 📌 Project Goal  
 CarValuatorAI is a machine learning-powered web application that predicts the resale value of cars based on their features. The aim is to provide car buyers and sellers with a reliable estimate of resale prices, enabling fair and informed decisions in the automobile market.  
 
